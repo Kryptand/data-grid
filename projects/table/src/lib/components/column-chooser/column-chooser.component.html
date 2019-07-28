@@ -1,0 +1,9 @@
+<mat-selection-list
+  #selected
+  dense
+  (selectionChange)="columns = selected.selectedOptions.selected"
+>
+  <mat-list-option *ngFor="let column of columns">
+    {{ columnn }}
+  </mat-list-option>
+</mat-selection-list>

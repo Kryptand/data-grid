@@ -1,0 +1,20 @@
+draggable header
+https://stackblitz.com/edit/angular-p12rek
+
+column chooser
+
+sortEvent
+
+
+filter-row with filterEvent
+
+
+normal pagination
+(works already)
+
+
+virtual pagination
+https://stackblitz.com/edit/nahgrin-virtual-scroll-table-hampgc
+
+crud
+https://github.com/marinantonio/angular-mat-table-crud/tree/master/src/app
